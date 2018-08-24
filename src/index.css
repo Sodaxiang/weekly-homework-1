@@ -1,0 +1,22 @@
+body {
+  padding-top: 15px;
+  padding-left: 15px;
+}
+details {
+  margin-bottom: 12px;
+}
+summary:focus {
+  outline: none;
+}
+
+ul {
+  margin-top: 0px;
+  margin-left: -22px;
+  background-color: aqua;
+}
+ul li ul {
+  background-color: blueviolet;
+}
+li {
+  list-style: none;
+}
